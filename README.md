@@ -25,5 +25,6 @@ npm install
 npm run dev
 ```
 
+
 Now check that the Movie App runs correctly and is accessible from a browser on your machine.  
 **Please ensure you have completed these steps before the lab-based exam and that you can push changes to your remote repository on GitHub.**
